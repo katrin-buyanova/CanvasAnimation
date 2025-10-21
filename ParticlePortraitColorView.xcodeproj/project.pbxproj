@@ -1,0 +1,583 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		DDCC8F532EA7A76400F56E70 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DDCC8F3D2EA7A76300F56E70 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DDCC8F442EA7A76300F56E70;
+			remoteInfo = ParticlePortraitColorView;
+		};
+		DDCC8F5D2EA7A76400F56E70 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DDCC8F3D2EA7A76300F56E70 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = DDCC8F442EA7A76300F56E70;
+			remoteInfo = ParticlePortraitColorView;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		DDCC8F452EA7A76300F56E70 /* ParticlePortraitColorView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ParticlePortraitColorView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DDCC8F522EA7A76400F56E70 /* ParticlePortraitColorViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ParticlePortraitColorViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DDCC8F5C2EA7A76400F56E70 /* ParticlePortraitColorViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ParticlePortraitColorViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		DDCC8F472EA7A76300F56E70 /* ParticlePortraitColorView */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ParticlePortraitColorView;
+			sourceTree = "<group>";
+		};
+		DDCC8F552EA7A76400F56E70 /* ParticlePortraitColorViewTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ParticlePortraitColorViewTests;
+			sourceTree = "<group>";
+		};
+		DDCC8F5F2EA7A76400F56E70 /* ParticlePortraitColorViewUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ParticlePortraitColorViewUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DDCC8F422EA7A76300F56E70 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DDCC8F4F2EA7A76400F56E70 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DDCC8F592EA7A76400F56E70 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DDCC8F3C2EA7A76300F56E70 = {
+			isa = PBXGroup;
+			children = (
+				DDCC8F472EA7A76300F56E70 /* ParticlePortraitColorView */,
+				DDCC8F552EA7A76400F56E70 /* ParticlePortraitColorViewTests */,
+				DDCC8F5F2EA7A76400F56E70 /* ParticlePortraitColorViewUITests */,
+				DDCC8F462EA7A76300F56E70 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DDCC8F462EA7A76300F56E70 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DDCC8F452EA7A76300F56E70 /* ParticlePortraitColorView.app */,
+				DDCC8F522EA7A76400F56E70 /* ParticlePortraitColorViewTests.xctest */,
+				DDCC8F5C2EA7A76400F56E70 /* ParticlePortraitColorViewUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DDCC8F442EA7A76300F56E70 /* ParticlePortraitColorView */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DDCC8F662EA7A76400F56E70 /* Build configuration list for PBXNativeTarget "ParticlePortraitColorView" */;
+			buildPhases = (
+				DDCC8F412EA7A76300F56E70 /* Sources */,
+				DDCC8F422EA7A76300F56E70 /* Frameworks */,
+				DDCC8F432EA7A76300F56E70 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				DDCC8F472EA7A76300F56E70 /* ParticlePortraitColorView */,
+			);
+			name = ParticlePortraitColorView;
+			packageProductDependencies = (
+			);
+			productName = ParticlePortraitColorView;
+			productReference = DDCC8F452EA7A76300F56E70 /* ParticlePortraitColorView.app */;
+			productType = "com.apple.product-type.application";
+		};
+		DDCC8F512EA7A76400F56E70 /* ParticlePortraitColorViewTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DDCC8F692EA7A76400F56E70 /* Build configuration list for PBXNativeTarget "ParticlePortraitColorViewTests" */;
+			buildPhases = (
+				DDCC8F4E2EA7A76400F56E70 /* Sources */,
+				DDCC8F4F2EA7A76400F56E70 /* Frameworks */,
+				DDCC8F502EA7A76400F56E70 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DDCC8F542EA7A76400F56E70 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				DDCC8F552EA7A76400F56E70 /* ParticlePortraitColorViewTests */,
+			);
+			name = ParticlePortraitColorViewTests;
+			packageProductDependencies = (
+			);
+			productName = ParticlePortraitColorViewTests;
+			productReference = DDCC8F522EA7A76400F56E70 /* ParticlePortraitColorViewTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		DDCC8F5B2EA7A76400F56E70 /* ParticlePortraitColorViewUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DDCC8F6C2EA7A76400F56E70 /* Build configuration list for PBXNativeTarget "ParticlePortraitColorViewUITests" */;
+			buildPhases = (
+				DDCC8F582EA7A76400F56E70 /* Sources */,
+				DDCC8F592EA7A76400F56E70 /* Frameworks */,
+				DDCC8F5A2EA7A76400F56E70 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DDCC8F5E2EA7A76400F56E70 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				DDCC8F5F2EA7A76400F56E70 /* ParticlePortraitColorViewUITests */,
+			);
+			name = ParticlePortraitColorViewUITests;
+			packageProductDependencies = (
+			);
+			productName = ParticlePortraitColorViewUITests;
+			productReference = DDCC8F5C2EA7A76400F56E70 /* ParticlePortraitColorViewUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DDCC8F3D2EA7A76300F56E70 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2600;
+				LastUpgradeCheck = 2600;
+				TargetAttributes = {
+					DDCC8F442EA7A76300F56E70 = {
+						CreatedOnToolsVersion = 26.0.1;
+					};
+					DDCC8F512EA7A76400F56E70 = {
+						CreatedOnToolsVersion = 26.0.1;
+						TestTargetID = DDCC8F442EA7A76300F56E70;
+					};
+					DDCC8F5B2EA7A76400F56E70 = {
+						CreatedOnToolsVersion = 26.0.1;
+						TestTargetID = DDCC8F442EA7A76300F56E70;
+					};
+				};
+			};
+			buildConfigurationList = DDCC8F402EA7A76300F56E70 /* Build configuration list for PBXProject "ParticlePortraitColorView" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = DDCC8F3C2EA7A76300F56E70;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = DDCC8F462EA7A76300F56E70 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DDCC8F442EA7A76300F56E70 /* ParticlePortraitColorView */,
+				DDCC8F512EA7A76400F56E70 /* ParticlePortraitColorViewTests */,
+				DDCC8F5B2EA7A76400F56E70 /* ParticlePortraitColorViewUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		DDCC8F432EA7A76300F56E70 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DDCC8F502EA7A76400F56E70 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DDCC8F5A2EA7A76400F56E70 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DDCC8F412EA7A76300F56E70 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DDCC8F4E2EA7A76400F56E70 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DDCC8F582EA7A76400F56E70 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		DDCC8F542EA7A76400F56E70 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DDCC8F442EA7A76300F56E70 /* ParticlePortraitColorView */;
+			targetProxy = DDCC8F532EA7A76400F56E70 /* PBXContainerItemProxy */;
+		};
+		DDCC8F5E2EA7A76400F56E70 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = DDCC8F442EA7A76300F56E70 /* ParticlePortraitColorView */;
+			targetProxy = DDCC8F5D2EA7A76400F56E70 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		DDCC8F642EA7A76400F56E70 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 76M49ULXNP;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		DDCC8F652EA7A76400F56E70 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 76M49ULXNP;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		DDCC8F672EA7A76400F56E70 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 76M49ULXNP;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = MindTalk.ParticlePortraitColorView;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		DDCC8F682EA7A76400F56E70 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 76M49ULXNP;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = MindTalk.ParticlePortraitColorView;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		DDCC8F6A2EA7A76400F56E70 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 76M49ULXNP;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = MindTalk.ParticlePortraitColorViewTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ParticlePortraitColorView.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ParticlePortraitColorView";
+			};
+			name = Debug;
+		};
+		DDCC8F6B2EA7A76400F56E70 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 76M49ULXNP;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = MindTalk.ParticlePortraitColorViewTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ParticlePortraitColorView.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ParticlePortraitColorView";
+			};
+			name = Release;
+		};
+		DDCC8F6D2EA7A76400F56E70 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 76M49ULXNP;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = MindTalk.ParticlePortraitColorViewUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ParticlePortraitColorView;
+			};
+			name = Debug;
+		};
+		DDCC8F6E2EA7A76400F56E70 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 76M49ULXNP;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = MindTalk.ParticlePortraitColorViewUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ParticlePortraitColorView;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DDCC8F402EA7A76300F56E70 /* Build configuration list for PBXProject "ParticlePortraitColorView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DDCC8F642EA7A76400F56E70 /* Debug */,
+				DDCC8F652EA7A76400F56E70 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DDCC8F662EA7A76400F56E70 /* Build configuration list for PBXNativeTarget "ParticlePortraitColorView" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DDCC8F672EA7A76400F56E70 /* Debug */,
+				DDCC8F682EA7A76400F56E70 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DDCC8F692EA7A76400F56E70 /* Build configuration list for PBXNativeTarget "ParticlePortraitColorViewTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DDCC8F6A2EA7A76400F56E70 /* Debug */,
+				DDCC8F6B2EA7A76400F56E70 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DDCC8F6C2EA7A76400F56E70 /* Build configuration list for PBXNativeTarget "ParticlePortraitColorViewUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DDCC8F6D2EA7A76400F56E70 /* Debug */,
+				DDCC8F6E2EA7A76400F56E70 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DDCC8F3D2EA7A76300F56E70 /* Project object */;
+}
