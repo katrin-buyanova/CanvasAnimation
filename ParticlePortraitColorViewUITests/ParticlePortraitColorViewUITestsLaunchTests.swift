@@ -2,7 +2,7 @@
 //  ParticlePortraitColorViewUITestsLaunchTests.swift
 //  ParticlePortraitColorViewUITests
 //
-//  Created by Katerina Puntsel on 21/10/2025.
+//  Created by Katerina Buyanova on 21/10/2025.
 //
 
 import XCTest
