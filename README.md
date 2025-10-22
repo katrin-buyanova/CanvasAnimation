@@ -11,7 +11,7 @@ Tap the screen to assemble or scatter the portrait.
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/642fc39e-9b55-4567-a0d7-f343db913658" width="70%" alt="SwiftUI Canvas Animation preview 1">
+  <img width="1126" height="913" alt="Снимок экрана 2025-10-22 в 21 06 23" src="https://github.com/user-attachments/assets/03887688-3323-4ee5-90c4-c3fb41b0a2f3" />
 </p>
 
 <p align="center">
