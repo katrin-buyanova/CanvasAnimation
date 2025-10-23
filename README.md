@@ -18,3 +18,6 @@ Tap the screen to assemble or scatter the portrait.
  <img width="1126" height="913" alt="Снимок экрана 2025-10-22 в 21 06 29" src="https://github.com/user-attachments/assets/ed5efd57-144e-4bd5-b412-abc419b5fcde" />
 </p>
 
+
+
+https://buymeacoffee.com/katebuyanova
